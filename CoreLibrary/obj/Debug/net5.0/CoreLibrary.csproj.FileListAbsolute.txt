@@ -1,0 +1,11 @@
+E:\m8\a\CoreLibrary\bin\Debug\net5.0\CoreLibrary.deps.json
+E:\m8\a\CoreLibrary\bin\Debug\net5.0\CoreLibrary.dll
+E:\m8\a\CoreLibrary\bin\Debug\net5.0\ref\CoreLibrary.dll
+E:\m8\a\CoreLibrary\bin\Debug\net5.0\CoreLibrary.pdb
+E:\m8\a\CoreLibrary\obj\Debug\net5.0\CoreLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\m8\a\CoreLibrary\obj\Debug\net5.0\CoreLibrary.AssemblyInfoInputs.cache
+E:\m8\a\CoreLibrary\obj\Debug\net5.0\CoreLibrary.AssemblyInfo.cs
+E:\m8\a\CoreLibrary\obj\Debug\net5.0\CoreLibrary.csproj.CoreCompileInputs.cache
+E:\m8\a\CoreLibrary\obj\Debug\net5.0\CoreLibrary.dll
+E:\m8\a\CoreLibrary\obj\Debug\net5.0\ref\CoreLibrary.dll
+E:\m8\a\CoreLibrary\obj\Debug\net5.0\CoreLibrary.pdb
